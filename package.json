@@ -1,0 +1,22 @@
+{
+  "name": "hostelworld-node-bootstrap",
+  "version": "1.0.0",
+  "description": "Hostelworld NodeJS Bootstrap project",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.19.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node app.js"
+  },
+  "author": "Hostelworld",
+  "license": "ISC"
+}
